@@ -15,11 +15,16 @@ Note: I have two (2) Log Analytics workspaces at the moment. However, I’m goin
  
 <br />
 <br />
- ![image](https://github.com/user-attachments/assets/0db41cd3-7d57-4f44-9067-591fe7432a82) <br />
+ ![image](https://github.com/user-attachments/assets/0db41cd3-7d57-4f44-9067-591fe7432a82) 
+ 
+ <br />
  ![image](https://github.com/user-attachments/assets/21363dbe-dd63-4ed9-ac92-cada0f8a65ed)
 <br />
 <br />
-From Azure portal global search space, search for Defender for cloud: <br/>
+From Azure portal global search space, search for Defender for cloud: 
+ 
+<br />
+<br />
 ![image](https://github.com/user-attachments/assets/691cf1bd-2c89-4c07-8a09-8a3a44168efb)
 <br />
 <br />
