@@ -1,4 +1,4 @@
-# MS-Sentinel-and-MS-Defender-lab
+# Microsoft Sentinel and Microsoft Defender LAB
 In this lab, I will be walking you through how to make use of Microsoft Defender for cloud and Microsoft Sentinel solution to harden your Azure Virtual machine security and also manage incidents
 
 <h2>Platform Used</h2>
@@ -9,7 +9,7 @@ In this lab, I will be walking you through how to make use of Microsoft Defender
 <h2>Project-lab walk-through:</h2>
 
 <p align="center">
-1. Go to Azure portal 
+1. Go to Azure portal: https://portal.azure.com/ 
 <br>  
 Note: I have two (2) Log Analytics workspaces at the moment. However, I’m going to create new one for this demo and name it Demo-workspace. See below screenshot for guide:
  
@@ -74,7 +74,8 @@ We can see Recommendations and the severity of the impact.
 <br />
 <br />
 9. Search for ‘Microsoft defender for cloud’ and install
-<br Afterwards, refresh and you should be able to see this:<br />
+<br> Afterwards, refresh and you should be able to see this:
+<br />
 <br />
 <br />
 ![image](https://github.com/user-attachments/assets/889ed745-7a6b-40fe-883e-b38222dc86dd)
@@ -116,5 +117,5 @@ Checking the Microsoft Sentinel Incidents blade, we can see the incident details
 The incident can be assigned to a security engineer for investigation and remediation steps.
 <br />
 <br />
-Thank for following through!!!
+Thank you for following through!!!
 <br />
