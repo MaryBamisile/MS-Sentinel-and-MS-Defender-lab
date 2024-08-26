@@ -12,7 +12,7 @@ In this lab, I will be walking you through how to make use of Microsoft Defender
 1. Go to Azure portal 
 <br>  
 Note: I have two (2) Log Analytics workspaces at the moment. However, I’m going to create new one for this demo and name it Demo-workspace. See below screenshot for guide:
- ![Screenshot-2024-07-29-135320](https://github.com/user-attachments/assets/58f9b3b7-7d20-4576-ae94-d93aa64db277)
+ 
 <br />
 <br />
  ![image](https://github.com/user-attachments/assets/0db41cd3-7d57-4f44-9067-591fe7432a82) <br />
