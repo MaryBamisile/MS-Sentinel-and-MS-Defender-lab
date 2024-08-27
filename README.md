@@ -1,6 +1,15 @@
 # Microsoft Sentinel and Microsoft Defender LAB
 In this lab, I will be walking you through how to make use of Microsoft Defender for cloud and Microsoft Sentinel solution to harden your Azure Virtual machine security and also manage incidents
 
+<h2>OVERVIEW</h2>
+
+<p>Microsoft Sentinel is a scalable, cloud-native security information and event management (SIEM) that delivers an intelligent and comprehensive solution for SIEM and security orchestration, automation, and response (SOAR). Microsoft Sentinel provides cyberthreat detection, investigation, response, and proactive hunting, with a bird's-eye view across your enterprise.
+
+<p>Microsoft Sentinel also natively incorporates proven Azure services, like Log Analytics and Logic Apps, and enriches your investigation and detection with AI. It uses both Microsoft's threat intelligence stream and also enables you to bring your own threat intelligence.
+
+<p>Microsoft Defender for Cloud is a cloud-native application protection platform (CNAPP) that is made up of security measures and practices that are designed to protect cloud-based applications from various cyber threats and vulnerabilities. </p>
+
+
 <h2>Platform Used</h2>
 
 - <b>Azure Portal: https://portal.azure.com/</b> 
@@ -117,5 +126,8 @@ Checking the Microsoft Sentinel Incidents blade, we can see the incident details
 The incident can be assigned to a security engineer for investigation and remediation steps.
 <br />
 <br />
+<h2>REFERENCES:</h2>
+<li>https://learn.microsoft.com/en-us/azure/sentinel/overview?tabs=azure-portal
+<li>https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction</li>
 Thank you for following through!!!
 <br />
