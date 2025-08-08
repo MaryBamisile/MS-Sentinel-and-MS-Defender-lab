@@ -111,7 +111,7 @@ We can see Recommendations and the severity of the impact.
 <br>Note: The connector can be enabled only on subscriptions that have at least one Microsoft Defender plan enabled in Microsoft Defender for Cloud, and only by users with Contributor permissions on the subscription.
 <br />
 <br />
-13. Next, go to https://security.microsoft.com
+13. Next, go to Microsoft 365 Defender page {here:(https://security.microsoft.com)} as it provides a summary of the incident, including assosciated alerts and categories, the scope, evidence, and other important information about the incident.
 <br />
 <br />
 ![image](https://github.com/user-attachments/assets/28ad1fe5-8304-4d42-bb5a-596fe5c4e69b)
